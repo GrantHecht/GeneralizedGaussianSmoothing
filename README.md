@@ -1,5 +1,11 @@
 # GaussianSmoothingHomotopy
 
+An implementation of the method proposed by Pan et al. in *Generalized Gaussian smoothing homotopy method for solving nonlinear optimal control problems* [doi: 10.1016/j.actaastro.2024.12.051](https://doi.org/10.1016/j.actaastro.2024.12.051)
+
+Note only example 1 from the paper is working and produces the expected results.
+
+## Notes on setting up 
+
 This code base is using the [Julia Language](https://julialang.org/) and
 [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
